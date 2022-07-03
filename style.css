@@ -1,5 +1,9 @@
 h2{
-   font-size: larger;
+   font-size: medium;
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   background-color: gray;
+   background-color: rgb(175, 167, 167);
+}
+p{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
 }
